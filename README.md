@@ -1,8 +1,8 @@
 # Analog-Clock
-## first java script project
+ first java script project
   This is a js project that i created usin HTML, CSS and js
 
-# analog clock
+## analog clock
 By geting time thoght the NEW Date() function i add this time to the analog clock using setInterval js fuction
 
 ## Date
